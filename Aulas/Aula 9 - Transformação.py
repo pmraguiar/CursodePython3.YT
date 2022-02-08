@@ -1,0 +1,11 @@
+frase = 'Curso em Vídeo Python'
+print(frase)
+print(frase.replace('Phyton', 'Android'))
+# frase = frase.replace('Phyton', 'Android')
+print(frase.upper())
+print(frase.lower())
+print(frase.capitalize())
+print(frase.title())
+print(frase.strip())
+print(frase.rstrip())
+print(frase.lstrip())
