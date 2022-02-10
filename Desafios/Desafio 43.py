@@ -5,4 +5,5 @@
 # — 25 até 30: Sobrepeso;
 # — 30 até 40: Obesidade;
 # — Acima de 40: Obesidade mórbida
-#
+# IMC = PESO / (ALTURA X ALTURA)
+
