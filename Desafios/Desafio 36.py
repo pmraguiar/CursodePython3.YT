@@ -19,4 +19,4 @@ if condicao >= parcela:
     print(f'\033[35mParabéns\033[m, {nome}, \033[35mvocê conseguiu\033[m o empréstimo para a compra da sua casa. '
           f'Você irá pagar R${parcela:.2f} durante {meses} meses.')
 else:
-    print(f'{nome}, \033[33minfelizmente\033[m, seu empréstimo foi negado.')
+    print(f'{nome}, \033[33minfelizmente\033[m, seu empréstimo foi negado. A prestação será de R${parcela:.2f}.')

@@ -10,6 +10,6 @@ media = (n1 + n2) / 2
 if media < 5.0:
     print(f'Infelizmente você está reprovado, pois teve uma média de {media:.1f}.')
 elif 5.0 <= media <= 6.9:
-    print(f'Você atingiu a média {media} e está de recuperação.')
+    print(f'Você atingiu a média {media:.1f} e está de recuperação.')
 else:
-    print(f'Parabéns! Você atingiu a média {media} e está APROVADO.')
+    print(f'Parabéns! Você atingiu a média {media:.1f} e está APROVADO.')
